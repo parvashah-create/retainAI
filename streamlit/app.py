@@ -70,8 +70,8 @@ if  st.session_state['login'] != True:
     st.write("sign-up and log-in to use. This will let you revisit your messages in the future!!")
     st.write("how get your open_ai keys: https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/ ")
     st.title("⬅ ⬅ Sign-up now!!")
-    image = Image.open('streamlit/database/alterok.png')
-    st.image(image)
+    # image = Image.open('streamlit/database/alterok.png')
+    # st.image(image)
     
 if  st.session_state['login'] == True:
 
