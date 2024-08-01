@@ -1,6 +1,12 @@
 # RetainAI
 
+## Links
 
+[APP](https://parvashah-create-retainai-streamlitapp-ewh2qj.streamlit.app/)
+
+[DEMO](https://youtu.be/FMMcqhA6rVs)
+
+[PDF](https://github.com/parvashah-create/retainAI/docs)
 ## About 
 
 Ever revisited the saved messages you keep dumping on different platforms?? Your important data is still out there, yet sitting idle being of no use! <br>
@@ -14,6 +20,8 @@ I want a application that can do that!!!! <br>
 Not only that, our application will let you get your data in an ORGANIZED, STRUCTURED, SUMMARIZED and on top of that you can can QUERY random question to get important information which is PRECISE and SUCCINT! <br>
 
 Woah! <br>
+
+
 
 
 <br>
