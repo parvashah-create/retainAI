@@ -6,7 +6,12 @@
 
 [DEMO](https://youtu.be/FMMcqhA6rVs)
 
-[PDF](https://github.com/parvashah-create/retainAI/blob/main/docs/Smart_Notes_Application_Development_Report.pdf)
+[Application Development Report](https://github.com/parvashah-create/retainAI/blob/main/docs/Smart_Notes_Application_Development_Report.pdf)
+
+[Metrics Report](https://github.com/parvashah-create/retainAI/blob/main/docs/RetainAI-Metrics.pdf)
+
+[Metrics Video](https://youtu.be/yVkfCkP2nVg)
+
 ## About 
 
 Ever revisited the saved messages you keep dumping on different platforms?? Your important data is still out there, yet sitting idle being of no use! <br>
